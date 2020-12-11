@@ -1,4 +1,4 @@
-# BreastCancerPrediction
+# Breast Cancer Prediction
 
 Breast cancer is the most common type of cancer among women worldwide. With early diagnosis, one can start timely clinical treatment and improve the chances of survival significantly. Also. accurate classification of benign tumors can prevent patients undergoing unnecessary treatments. Because of its unique advantages in critical feature detection from complex datsets, Machine learning is widely used for pattern classification and forecast modelling.
 
@@ -6,6 +6,10 @@ Diagnosis of Breast cancer is performed when an abnormal lump is found in an x-r
 
 Most of the cases of breast cancer cannot be linked to a specific cause, but there are some of the known risk factors for the disease. 
 The chance of getting breast cancer increases as women age. Women with breast cancer in one breast are at risk of developing cancer in the other breast too. A family history of breast cancer(if a woman's mother, sister or daughter has breast cancer) also raises the risk of getting it. Childbearing and menstrual history also affects the chances of getting breast cancer. 
+
+### objective
+
+With this analysis we can find features that are most helpful in predicting malignant or benign cancer and see general trends that may help us in model selection. The main goal is to classify whether the breast cancer is benign or malignant. Machine learning classification methods have been used to fit the function that can predict for the new input.
 
 ### Dataset
 
